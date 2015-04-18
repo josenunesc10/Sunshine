@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_item_forecast_textview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:text="Today - Sunny - 88/63">
+
+</TextView>
+
+
+
+
+<!--<TextView-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:textAppearance="?android:attr/textAppearanceSmall"-->
+<!--android:text="Today, June 24"-->
+<!--android:id="@+id/dateText"-->
+<!--android:layout_alignParentTop="true"-->
+<!--android:layout_alignParentLeft="true"-->
+<!--android:layout_alignParentStart="true" />-->
+
+<!--<TextView-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:textAppearance="?android:attr/textAppearanceLarge"-->
+<!--android:text="21º"-->
+<!--android:id="@+id/maxTemp"-->
+<!--android:layout_marginTop="28dp"-->
+<!--android:layout_below="@+id/dateText"-->
+<!--android:layout_alignLeft="@+id/minTemp"-->
+<!--android:layout_alignStart="@+id/minTemp" />-->
+
+<!--<TextView-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:textAppearance="?android:attr/textAppearanceLarge"-->
+<!--android:text="8º"-->
+<!--android:id="@+id/minTemp"-->
+<!--android:layout_below="@+id/maxTemp"-->
+<!--android:layout_alignParentLeft="true"-->
+<!--android:layout_alignParentStart="true"-->
+<!--android:layout_marginLeft="27dp"-->
+<!--android:layout_marginStart="27dp" />-->
+
+<!--<ImageView-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:id="@+id/forecastImg"-->
+<!--android:src="@android:mipmap/sym_def_app_icon"-->
+<!--android:layout_alignTop="@+id/maxTemp"-->
+<!--android:layout_alignParentRight="true"-->
+<!--android:layout_alignParentEnd="true"-->
+<!--android:layout_marginRight="50dp"-->
+<!--android:layout_marginEnd="50dp" />-->
+
+<!--<TextView-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:textAppearance="?android:attr/textAppearanceMedium"-->
+<!--android:text="Cloudy"-->
+<!--android:id="@+id/forecastCaption"-->
+<!--android:layout_below="@+id/minTemp"-->
+<!--android:layout_alignLeft="@+id/forecastImg"-->
+<!--android:layout_alignStart="@+id/forecastImg" />-->
